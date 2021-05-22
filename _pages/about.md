@@ -11,14 +11,8 @@ redirect_from:
 * 📚 I am a Postdoctoral Research Fellow at the [Florida Institute for Cybersecurity](https://fics.institute.ufl.edu/) (University of Florida) working with [Dr. Daniela Oliveira](https://danielaseabraoliveira.com/). 
 * 👨‍🏫 I am also an Associate Professor at the Computer Science and Electrical Engineering departments of [PUCPR](https://www.pucpr.br/), Brazil (currently on sabbatical).
 
-Education
-======
-* 🎓 PhD in Computer Science with focus on Machine Learning (GPA: 4.00) from [PUCPR](https://www.pucpr.br/).
-* 🎓 MSc in Computer Science with focus on Machine Learning (GPA: 3.89) from [PUCPR](https://www.pucpr.br/).
-* 🎓 BSc in Electrical Engineering (GPA: 3.6) from [PUCPR](https://www.pucpr.br/). Named 1st place in the Marcelino Champagnat Award of Academic Merit for best academic performance 🥇
-
 Areas of Expertise
-======
+------
 * 🤖 Data Mining and Machine Learning
 * 👨‍💻 Computer Programming
 * 📈 Signal Processing
@@ -28,6 +22,12 @@ Current Research Interests
 ------
 * Detection of fake news on social media using machine learning
 * User authentication using machine learning
+
+Education
+------
+* 🎓 PhD in Computer Science with focus on Machine Learning (GPA: 4.00) from [PUCPR](https://www.pucpr.br/).
+* 🎓 MSc in Computer Science with focus on Machine Learning (GPA: 3.89) from [PUCPR](https://www.pucpr.br/).
+* 🎓 BSc in Electrical Engineering (GPA: 3.6) from [PUCPR](https://www.pucpr.br/). Named 1st place in the Marcelino Champagnat Award of Academic Merit for best academic performance 🥇
 
 <!-- Site-wide configuration
 ------
