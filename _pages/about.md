@@ -8,10 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-I am a Postdoctoral Research Fellow at the [Florida Institute for Cybersecurity](https://fics.institute.ufl.edu/) (University of Florida) working with [Dr. Daniela Oliveira](https://danielaseabraoliveira.com/). I am also an Associate Professor at the Computer Science and Electrical Engineering departments of [PUCPR](https://www.pucpr.br/), Brazil (on sabbatical since July 2019).
+I am a Postdoctoral Research Fellow at the [Florida Institute for Cybersecurity](https://fics.institute.ufl.edu/) (University of Florida) working with [Dr. Daniela Oliveira](https://danielaseabraoliveira.com/). I am also an Associate Professor at the Computer Science and Electrical Engineering departments of [PUCPR](https://www.pucpr.br/), Brazil (currently on sabbatical).
 
 Education
-======
+------
 🎓 PhD in Computer Science with focus on Machine Learning (GPA: 4.00). Received from [PUCPR](https://www.pucpr.br/).
 
 🎓 MSc in Computer Science with focus on Machine Learning (GPA: 3.89). Received from [PUCPR](https://www.pucpr.br/).
@@ -23,20 +23,17 @@ Education
 My PhD and MSc advisor was [Dr. Julio Cesar Nievola](https://www.ppgia.pucpr.br/~nievola/). My undergraduate research advisor was Dr. Elisangela Ferretti Manffra.
 
 Areas of Expertise
-======
+------
 1. Data Mining and Machine Learning
 1. Computer Programming
 1. Signal Processing
 1. Cybersecurity
 
 Research Interests
-======
+------
 1. A
 1. B
 1. C
-1. D
-1. E
-1. F
 
 Site-wide configuration
 ------
