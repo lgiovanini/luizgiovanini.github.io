@@ -24,10 +24,10 @@ Education
 
 Areas of Expertise
 ======
-1. 🤖 Data Mining and Machine Learning
-1. 👨‍💻 Computer Programming
-1. 📈 Signal Processing
-1. 🔒 Cybersecurity
+* 🤖 Data Mining and Machine Learning
+* 👨‍💻 Computer Programming
+* 📈 Signal Processing
+* 🔒 Cybersecurity
 
 Research Interests
 ------
