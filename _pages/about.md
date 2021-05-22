@@ -14,7 +14,8 @@ redirect_from:
 Current Research Interests
 ======
 My research interests lie on the use of machine learning and deep learning models for:
-* 😷 Detection of fake news related to COVID-19 on social media
+* 😷 Detection of user engagement with COVID-19 fake news spread on social media
+* 📱 Detection of user engagement with unsafe apps related to COVID-19
 * ⛔ Detection of subtle forms of toxicity in online conversations
 * 🛡️ Behavior-based continuous authentication
 
