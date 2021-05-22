@@ -13,8 +13,13 @@ I am a Postdoctoral Research Fellow at the [Florida Institute for Cybersecurity]
 Education
 ======
 🎓 PhD in Computer Science with focus on Machine Learning (GPA: 4.00). Received from [PUCPR](https://www.pucpr.br/). My advisor was [Dr. Julio Cesar Nievola](https://www.ppgia.pucpr.br/~nievola/).
+
 🎓 MSc in Computer Science with focus on Machine Learning (GPA: 3.89). My advisor was [Dr. Julio Cesar Nievola](https://www.ppgia.pucpr.br/~nievola/).
-🎓 BSc in Electrical Engineering (GPA: 3.6). My advisor was Dr. Elisangela Ferretti Manffra.
+
+🎓 BSc in Electrical Engineering (GPA: 3.6)*.
+
+* 🏆 Named 1st place in the Marcelino Champagnat Award of Academic Merit for best academic performance
+My PhD and MSc advisor was [Dr. Julio Cesar Nievola](https://www.ppgia.pucpr.br/~nievola/). My undergraduate research advisor was Dr. Elisangela Ferretti Manffra.
 
 Areas of Expertise
 ======
