@@ -8,9 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-📚 I am a Postdoctoral Research Fellow at the [Florida Institute for Cybersecurity](https://fics.institute.ufl.edu/) (University of Florida) working with [Dr. Daniela Oliveira](https://danielaseabraoliveira.com/). 
-
-👨‍🏫 I am also an Associate Professor at the Computer Science and Electrical Engineering departments of [PUCPR](https://www.pucpr.br/), Brazil (currently on sabbatical).
+* 📚 I am a Postdoctoral Research Fellow at the [Florida Institute for Cybersecurity](https://fics.institute.ufl.edu/) (University of Florida) working with [Dr. Daniela Oliveira](https://danielaseabraoliveira.com/). 
+* 👨‍🏫 I am also an Associate Professor at the Computer Science and Electrical Engineering departments of [PUCPR](https://www.pucpr.br/), Brazil (currently on sabbatical).
 
 Education
 ======
@@ -25,9 +24,10 @@ Areas of Expertise
 * 📈 Signal Processing
 * 🔒 Cybersecurity
 
-Research Interests
+Current Research Interests
 ------
-My current research interests are...
+* Detection of fake news on social media using machine learning
+* User authentication using machine learning
 
 <!-- Site-wide configuration
 ------
