@@ -16,9 +16,7 @@ Education
 ======
 * 🎓 PhD in Computer Science with focus on Machine Learning (GPA: 4.00) from [PUCPR](https://www.pucpr.br/).
 * 🎓 MSc in Computer Science with focus on Machine Learning (GPA: 3.89) from [PUCPR](https://www.pucpr.br/).
-* 🎓 BSc in Electrical Engineering (GPA: 3.6)¹ from [PUCPR](https://www.pucpr.br/).
-
-¹🥇 Named 1st place in the Marcelino Champagnat Award of Academic Merit for best academic performance
+* 🎓 BSc in Electrical Engineering (GPA: 3.6) from [PUCPR](https://www.pucpr.br/). Named 1st place in the Marcelino Champagnat Award of Academic Merit for best academic performance 🥇
 
 Areas of Expertise
 ======
