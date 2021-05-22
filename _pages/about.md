@@ -11,7 +11,7 @@ redirect_from:
 I am a Postdoctoral Research Fellow at the [Florida Institute for Cybersecurity](https://fics.institute.ufl.edu/) (University of Florida) working with [Dr. Daniela Oliveira](https://danielaseabraoliveira.com/). I am also an Associate Professor at the Computer Science and Electrical Engineering departments of [PUCPR](https://www.pucpr.br/), Brazil (currently on sabbatical).
 
 Education
-------
+======
 🎓 PhD in Computer Science with focus on Machine Learning (GPA: 4.00). Received from [PUCPR](https://www.pucpr.br/).
 
 🎓 MSc in Computer Science with focus on Machine Learning (GPA: 3.89). Received from [PUCPR](https://www.pucpr.br/).
@@ -20,10 +20,8 @@ Education
 
 ¹🏆 Named 1st place in the Marcelino Champagnat Award of Academic Merit for best academic performance
 
-My PhD and MSc advisor was [Dr. Julio Cesar Nievola](https://www.ppgia.pucpr.br/~nievola/). My undergraduate research advisor was Dr. Elisangela Ferretti Manffra.
-
 Areas of Expertise
-------
+======
 1. Data Mining and Machine Learning
 1. Computer Programming
 1. Signal Processing
@@ -31,11 +29,9 @@ Areas of Expertise
 
 Research Interests
 ------
-1. A
-1. B
-1. C
+My current research interests are...
 
-Site-wide configuration
+<!-- Site-wide configuration
 ------
 The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
 
@@ -57,4 +53,4 @@ Example: editing a markdown file for a talk
 
 For more info
 ------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful. -->
