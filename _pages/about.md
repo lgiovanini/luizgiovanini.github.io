@@ -20,7 +20,7 @@ Education
 
 🎓 BSc in Electrical Engineering (GPA: 3.6)¹. Received from [PUCPR](https://www.pucpr.br/).
 
-¹🏆 Named 1st place in the Marcelino Champagnat Award of Academic Merit for best academic performance
+¹🥇 Named 1st place in the Marcelino Champagnat Award of Academic Merit for best academic performance
 
 Areas of Expertise
 ======
