@@ -8,14 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-📚 I am a Postdoctoral Research Fellow at the [Florida Institute for Cybersecurity](https://fics.institute.ufl.edu/) (University of Florida) working with [Dr. Daniela Oliveira](https://danielaseabraoliveira.com/). 
-
-👨‍🏫 I am also an Associate Professor at the Computer Science and Electrical Engineering departments of [PUCPR](https://www.pucpr.br/), Brazil (currently on sabbatical).
+* 📚 I am a Postdoctoral Research Fellow at the [Florida Institute for Cybersecurity](https://fics.institute.ufl.edu/) (University of Florida) working with [Dr. Daniela Oliveira](https://danielaseabraoliveira.com/). 
+* 👨‍🏫 I am also an Associate Professor at the Computer Science and Electrical Engineering departments of [PUCPR](https://www.pucpr.br/), Brazil (currently on sabbatical).
 
 Current Research Interests
 ======
-My research interests lie on the use of machine learning and deep learning models for:
-* 😷 Detection of user engagement with COVID-19 fake news spread on social media
+My research interests lie on the use of machine learning (including deep learning models) for:
+* 😷 Detection of user engagement with COVID-19 fake news on social media
 * 📱 Detection of user engagement with unsafe apps related to COVID-19
 * ⛔ Detection of subtle forms of toxicity in online conversations
 * 🛡️ Behavior-based continuous authentication
