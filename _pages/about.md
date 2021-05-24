@@ -1,5 +1,5 @@
 ---
-permalink: https://lgiovanini.github.io/webpage/
+permalink: /
 title: "About Me"
 excerpt: "About me"
 author_profile: true
